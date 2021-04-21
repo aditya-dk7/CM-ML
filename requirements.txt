@@ -1,0 +1,7 @@
+tensorflow==2.4.1
+Flask_RESTful==0.3.8
+joblib==0.16.0
+numpy==1.19.5
+Pyrebase==3.0.27
+opencv_contrib_python==4.4.0.44
+Flask==1.1.2
